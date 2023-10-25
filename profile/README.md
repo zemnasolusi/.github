@@ -1,4 +1,4 @@
-## I'm ZemnaSoft 👋
+## I'm Zemna Solusi 👋
 
 Software Development Agency in Indonesia.
 
