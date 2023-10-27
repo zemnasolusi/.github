@@ -1,6 +1,4 @@
-
-
-## Abount Zemna Solusi 👋
+## About Zemna Solusi 👋
 
 Software Development Agency in Indonesia.
 
